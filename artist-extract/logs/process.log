@@ -1,0 +1,3 @@
+2025-12-18 06:53:12,927 - app - INFO - Starting artist-extract service
+2025-12-18 06:53:12,928 - app - INFO - Initializing Redshift connection pool
+2025-12-18 06:53:14,399 - app - INFO - Redshift pool initialized successfully
